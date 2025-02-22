@@ -1,6 +1,5 @@
 <div align="center">
   <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/196389614?s=200&v=4" width="64" height="64" alt="Fuselock Logo">
   <h1>Welcome to Fuselock HQ</h1>
   <h3>Ultimate security package managers for modern development.</h3>
   <h4>Build and secure with confidence knowing your dependencies are monitored and controlled at runtime, preventing supply chain attacks at scale.</h4>
