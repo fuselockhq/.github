@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>🛡️ SecurePackage</h1>
-  <h3>Next-Generation Security Package Managers</h3>
+  <h1>🛡️ fuselock</h1>
+  <h3>Next-gen Security Package and App Managment</h3>
   <h4>Securing your software supply chain across multiple platforms</h4>
 
-  [![GitHub Org](https://img.shields.io/badge/GitHub-Organization-blue)](https://github.com/securepackage)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  [![GitHub Org](https://img.shields.io/badge/GitHub-Organization-blue)](https://github.com/fuselockhq)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/orgs/fuselockhq/repositories)
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 </div>
 
