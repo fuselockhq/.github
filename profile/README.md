@@ -16,7 +16,18 @@ Fuselock tackles critical security vulnerabilities in modern dependency-driven s
 Our tools provide developers with fine-grained control over their applications' runtime behavior, helping to prevent supply chain attacks and ensuring secure execution across different platforms.
 We belive in a fully transparent open source driven security where vulnerabilities are prevented and discovered at rapid speed. Community driven innovation without vendor locking. 
 
-## 🌟 Key focuc
+## 🚀 Our Projects
+
+### 🔐 fuselockjs (Node.js)
+A runtime security layer for Node.js applications that intercepts and restricts OS operations. [Learn more](https://github.com/fuselockhq/fuselockls)
+
+### ⏭️ Coming Soon
+- **fuselockpy**: Runtime security for Python applications
+- **cloudlock**: Security management for cloud-native applications
+- **containerlock**: Container-level security orchestration
+
+
+## 🌟 Key focus areas
 
 - **Runtime Security Layer**: Intercept and restrict OS operations at runtime
 - **Cross-Platform Support**: Solutions for JavaScript, Python, and cloud environments
@@ -25,15 +36,6 @@ We belive in a fully transparent open source driven security where vulnerabiliti
 - **Zero-Trust Architecture**: Every package must explicitly declare its requirements
 - **Performance Focused**: Minimal overhead while maintaining robust security
 
-## 🏗️ Our Projects
-
-### fuselockjs (Node.js)
-A runtime security layer for Node.js applications that intercepts and restricts OS operations. [Learn more](https://github.com/fuselockhq/fuselockls)
-
-### Coming Soon
-- **fuselockpy**: Runtime security for Python applications
-- **cloudlock**: Security management for cloud-native applications
-- **containerlock**: Container-level security orchestration
 
 ## 🔒 Security Philosophy
 
