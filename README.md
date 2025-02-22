@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>🛡️ fuselock</h1>
+  <img src="https://avatars.githubusercontent.com/u/196389614" width="64" height="64" alt="Fuselock Logo">
+  <h1>fuselock</h1>
   <h3>Next-gen Security Package and App Managment</h3>
   <h4>Securing your software supply chain across multiple platforms</h4>
 
