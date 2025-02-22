@@ -18,14 +18,15 @@ We belive in a fully transparent open source driven security where vulnerabiliti
 
 ## 🚀 Our Projects
 
-### 🔐 fuselockjs (Node.js)
+### fuselockjs for node.js
 A runtime security layer for Node.js applications that intercepts and restricts OS operations. [Learn more](https://github.com/fuselockhq/fuselockls)
-
+```bash
+npm install -g fuselock
+```
 ### ⏭️ Coming Soon
 - **fuselockpy**: Runtime security for Python applications
 - **cloudlock**: Security management for cloud-native applications
 - **containerlock**: Container-level security orchestration
-
 
 ## 🌟 Key focus areas
 
@@ -35,7 +36,6 @@ A runtime security layer for Node.js applications that intercepts and restricts 
 - **Supply Chain Security**: Built-in protection against malicious dependencies
 - **Zero-Trust Architecture**: Every package must explicitly declare its requirements
 - **Performance Focused**: Minimal overhead while maintaining robust security
-
 
 ## 🔒 Security Philosophy
 
